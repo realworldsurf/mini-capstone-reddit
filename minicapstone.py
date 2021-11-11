@@ -1,7 +1,6 @@
 # Mini-Capstone Python API
 
-# For Heroku to deploy I had to create a new repository on github, a requirements.txt 
-# This is Reddits 
+# For Heroku to deploy I had to create a new repository on github, a requirements.txt, Procfile and optional python-getting-started.
 import praw 
 
 reddit = praw.Reddit(
